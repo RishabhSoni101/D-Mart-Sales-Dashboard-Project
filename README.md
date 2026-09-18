@@ -59,11 +59,11 @@ These filters allow users to explore the data from different business perspectiv
 - Different discount levels showed different relationships with profitability.
 - 2017 recorded the highest annual sales and profit in the dashboard analysis.
 - Consumer was the largest customer segment by count.
-- 
+  
 ## 📁 Project Files
 - [Dmart_Data.xlsx](Dmart_Data.xlsx) – Excel dataset and dashboard
 - [Dmart_sales_View.png](Dmart_sales_View.png) – Dashboard preview
-- 
+  
 ## Skills Demonstrated
 - Data Cleaning
 - Data Analysis
@@ -82,4 +82,5 @@ These filters allow users to explore the data from different business perspectiv
 This project demonstrates how Microsoft Excel can be used to convert sales data into an interactive business intelligence dashboard and generate actionable insights for sales and profitability analysis.
 
 ##Author
+
 **Rishabh Soni**
